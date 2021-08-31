@@ -1,8 +1,6 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 ## Laravel Search & Filter
 
-Learn how to make Search & filter for products and CRUD for products with (Many to Many relationship).
 
 How to install.
 
